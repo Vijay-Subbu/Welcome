@@ -4,5 +4,8 @@ main {
 }
 h3{
   color:green;
-    
+     
+}
+h3:hover{
+  background-color:gold;
 }
